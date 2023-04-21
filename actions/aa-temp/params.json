@@ -1,0 +1,6 @@
+{
+    "category": "plugins",
+    "display": "a",
+    "type": "server_side",
+    "use_packages": true
+}
