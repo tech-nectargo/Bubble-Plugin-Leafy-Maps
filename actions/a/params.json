@@ -1,0 +1,10 @@
+{
+    "category": "plugins",
+    "display": "a",
+    "fields": {
+    },
+    "return_value": {
+    },
+    "type": "server_side",
+    "use_packages": true
+}
