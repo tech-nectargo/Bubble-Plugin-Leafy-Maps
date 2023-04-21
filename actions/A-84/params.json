@@ -1,10 +1,6 @@
 {
     "category": "plugins",
-    "display": "a",
-    "fields": {
-    },
-    "return_value": {
-    },
+    "display": "b",
     "type": "server_side",
     "use_packages": true
 }
