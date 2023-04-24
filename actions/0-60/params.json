@@ -1,6 +1,15 @@
 {
     "category": "plugins",
     "display": "b-2",
-    "type": "server_side",
+    "fields": {
+        "ANw": {
+            "caption": "test",
+            "editor": "DynamicValue",
+            "name": "test",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side",
     "use_packages": true
 }

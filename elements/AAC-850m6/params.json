@@ -86,6 +86,19 @@
             "editor": "Label",
             "name": "a",
             "rank": 0
+        },
+        "ANx": {
+            "caption": "b",
+            "editor": "StaticText",
+            "name": "b",
+            "options": "",
+            "rank": 1
+        },
+        "ANy": {
+            "caption": "c",
+            "editor": "custom_type",
+            "name": "c",
+            "rank": 2
         }
     },
     "icon": "ion-android-map",
