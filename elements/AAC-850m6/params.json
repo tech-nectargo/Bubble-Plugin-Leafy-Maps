@@ -89,6 +89,7 @@
         },
         "ANx": {
             "caption": "b",
+            "default_val": "toto",
             "editor": "StaticText",
             "name": "b",
             "options": "",
