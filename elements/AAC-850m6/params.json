@@ -97,6 +97,7 @@
         },
         "ANy": {
             "caption": "c",
+            "default_val": "api.1562697922620x934462587697889300.plugin_api.ABo",
             "editor": "custom_type",
             "name": "c",
             "rank": 2
